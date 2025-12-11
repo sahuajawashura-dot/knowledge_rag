@@ -1,0 +1,5 @@
+{
+  "name": "Knowledge Graph AI",
+  "description": "An AI-powered tool that converts text into interactive, visual knowledge graphs using Gemini and D3.js.",
+  "requestFramePermissions": []
+}
